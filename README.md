@@ -4,7 +4,7 @@ NSEREKO JOSHUA : 19/BSE/BU/R/0002
 ```
 
 ## HOW TO RUN THIS PROJECT
-- Install Python(3.8) (Dont Forget to Tick Add to Path while installing Python)
+- Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
 - Open Terminal and Execute Following Commands :
 ```
 pip install django==3.0.5
